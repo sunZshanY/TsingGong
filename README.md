@@ -22,13 +22,13 @@
 
 ## 伤情照片
 
-<img src="images/伤势图/000_1000010000.jpg" alt="伤情1" width="55%">
+<img src="images/伤势图/000_1000010000.jpg" alt="伤情1" width="50%">
 
-<img src="images/伤势图/001_1000009999.jpg" alt="伤情2" width="55%">
+<img src="images/伤势图/001_1000009999.jpg" alt="伤情2" width="50%">
 
-<img src="images/伤势图/002_1000009996.jpg" alt="伤情3" width="55%">
+<img src="images/伤势图/002_1000009996.jpg" alt="伤情3" width="50%">
 
-<img src="images/伤势图/003_1000009997.jpg" alt="伤情4" width="55%">
+<img src="images/伤势图/003_1000009997.jpg" alt="伤情4" width="50%">
 
 <img src="images/伤势图/004_1000009998.jpg" alt="伤情5" width="55%">
 
